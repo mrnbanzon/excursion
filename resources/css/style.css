@@ -1,8 +1,15 @@
 html {
   font-family: Verdana;
   background-color: black;
-  text-align: center;
   color: white;
+}
+
+#main_body {
+  text-align: center;
+}
+
+#footer {
+  text-align: right;
 }
 
 a {
